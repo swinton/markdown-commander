@@ -1,0 +1,16 @@
+{
+  "name": "markdown-commander",
+  "main": "./lib/markdown-commander",
+  "version": "0.0.0",
+  "description": "Commands for authoring Markdown, inspired by iA Writer",
+  "keywords": [
+      "markdown", "helper", "commander", "utility", "utilities", "iA Writer"
+  ],
+  "repository": "https://github.com/swinton/markdown-commander",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
