@@ -1,7 +1,7 @@
 {
   "name": "markdown-commander",
   "main": "./lib/markdown-commander",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Commands for authoring Markdown, inspired by iA Writer",
   "keywords": [
     "markdown",
